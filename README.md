@@ -28,7 +28,7 @@ chmod +x FileEncrypterDecrypter PasswordGenerator
 
 3️⃣ Run the Scripts
 🔒 Encrypt / Decrypt Files
-# ./FileEncrypterDecrypter
+./FileEncrypterDecrypter
 
 
 Example Session:
@@ -54,7 +54,7 @@ Enter output filename: secret_decrypted.txt
 File "secret.txt.gpg" successfully decrypted to "secret_decrypted.txt"
 
 🔑 Generate a Secure Password
-# ./PasswordGenerator
+./PasswordGenerator
 
 Example Session:
 
