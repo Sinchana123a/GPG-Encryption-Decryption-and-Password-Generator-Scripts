@@ -18,8 +18,9 @@ Shell-Scripts/
 
 
 Usage
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Shell-Scripts.git
+git clone project
 cd Shell-Scripts
 
 2️⃣ Make Scripts Executable
