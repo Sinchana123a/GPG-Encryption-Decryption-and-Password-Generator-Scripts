@@ -11,9 +11,13 @@ This project provides simple shell scripts for securely encrypting/decrypting fi
 
 
 📂 Project Structure
+
 Shell-Scripts/
+
 │── FileEncrypterDecrypter   # Script for GPG encryption & decryption
+
 │── PasswordGenerator        # Script to generate strong random passwords
+
 │── README.md                # Project documentation
 
 
