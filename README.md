@@ -44,6 +44,7 @@ Choose an option:
 Enter choice: 1
 
 Enter filename to encrypt: secret.txt
+
 File "secret.txt" successfully encrypted to "secret.txt.gpg"
 
 Decryption Example:
@@ -54,6 +55,7 @@ Choose an option:
 Enter choice: 2
 
 Enter filename to decrypt: secret.txt.gpg
+
 Enter output filename: secret_decrypted.txt
 
 File "secret.txt.gpg" successfully decrypted to "secret_decrypted.txt"
