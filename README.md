@@ -28,6 +28,7 @@ chmod +x FileEncrypterDecrypter PasswordGenerator
 
 3️⃣ Run the Scripts
 🔒 Encrypt / Decrypt Files
+
 ./FileEncrypterDecrypter
 
 
@@ -54,11 +55,13 @@ Enter output filename: secret_decrypted.txt
 File "secret.txt.gpg" successfully decrypted to "secret_decrypted.txt"
 
 🔑 Generate a Secure Password
+
 ./PasswordGenerator
 
 Example Session:
 
 Enter desired password length: 16
+
 Generated Password: jF7@dL9!pQ2xW1v#
 
 These shell scripts provide a quick and simple way to secure files with GPG encryption/decryption and generate strong passwords. Lightweight, easy to use, and perfect for automating everyday security tasks from the command line.
